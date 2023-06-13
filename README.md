@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am frist year student(Btech)<br> intrested in open source web development and devops
+i am 2nd year student(Btech)<br> intrested in open source web development and devops
 
 
 ## 🌐 Socials:
