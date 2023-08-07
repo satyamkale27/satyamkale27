@@ -14,12 +14,3 @@ i am 2nd year student(Btech)<br> intrested in open source web development and de
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satyamkale27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@satyamk07018919)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kalesatyam8) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SatyamKale) 
-
-  
-
