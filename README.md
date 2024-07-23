@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am 2nd year student(Btech) computer science engineering<br> intrested in open source web development and devops
+i am 3rd year student(Btech) computer science engineering<br> intrested in open source web development and devops
 
 
 ## 🌐 Socials:
